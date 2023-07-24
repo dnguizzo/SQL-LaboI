@@ -1,0 +1,20 @@
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\bin\Debug\sql prueba ok.exe.config
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\bin\Debug\sql prueba ok.exe
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\bin\Debug\sql prueba ok.pdb
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.csproj.AssemblyReference.cache
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\obj\Debug\sql_prueba_ok.Properties.Resources.resources
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.csproj.GenerateResource.cache
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.csproj.CoreCompileInputs.cache
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.exe
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.pdb
+C:\Users\54351\source\repos\sql prueba ok\sql prueba ok\obj\Debug\sql_prueba_ok.FormOriginal.resources
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\bin\Debug\sql prueba ok.exe.config
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\bin\Debug\sql prueba ok.exe
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\bin\Debug\sql prueba ok.pdb
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.csproj.AssemblyReference.cache
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\obj\Debug\sql_prueba_ok.FormOriginal.resources
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\obj\Debug\sql_prueba_ok.Properties.Resources.resources
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.csproj.GenerateResource.cache
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.csproj.CoreCompileInputs.cache
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.exe
+C:\Diego\Tecnicatura en Programacion\PROGRAMACION\Laboratorio de Computación I\Unidad 2\Proyecto Integrador II\archivos en limpio\sql prueba ok\sql prueba ok\obj\Debug\sql prueba ok.pdb
